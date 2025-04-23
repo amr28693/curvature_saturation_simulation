@@ -15,7 +15,7 @@ This repository contains a simple Python simulation that demonstrates curvature-
 
 ## How to run
 
-1. Open `simulation.ipynb` in JupyterLab
+1. Open `curvature_saturation_simulation.ipynb` in JupyterLab
 2. Run all cells
 3. View the curvature vs. network growth plot
 
